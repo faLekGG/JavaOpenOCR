@@ -15,4 +15,5 @@ public static final String URI_FILE = "YOUR_URL_FOR_FILE_UPLOAD";
 public static final String PATH_TO_FILE = "YOUR_PATH_TO_FILE"
 ```
 <b>Analyze image from Url</b>
+![remoteupload](https://user-images.githubusercontent.com/23281318/52038611-d8180480-2543-11e9-9298-3a8916261ad1.jpg)
 <b>Analyze image from PC</b>
